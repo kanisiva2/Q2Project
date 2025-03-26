@@ -8,4 +8,4 @@ How to Run Code:
    
 2. Create folders and upload files to match the file structure inside "chest_xray" folder. (First create two folders, "train" and "test", and then upload datasets as "Normal" and "Pneumonia" as they are presented in the "chest_xray" folder.
    
-3. Run through each cell sequentially in the .ipynb.
+3. Run through code
